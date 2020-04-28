@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: /about/index.html
+  - title: "Datasets"
+    url: /datasets/index.html
+  - title: "CV"
+    url: /cv/index.html
