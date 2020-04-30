@@ -4,11 +4,11 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 theme                  : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "dark"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Selective Perceptions"
+title                    : "robwiederstein.org"
 title_separator          : "-"
 subtitle                 : "A blog about data" # site tagline that appears below site title in masthead
 name                     : "Rob Wiederstein"
@@ -277,3 +277,13 @@ defaults:
       comments: # true
       share: true
       related: true
+
+head_scripts: #load .css before .js
+#- https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.css
+#- https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.css
+#- https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.Default.css
+- https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js
+- https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.js
+- https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js
+- https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/leaflet.markercluster.js
+- https://cdnjs.cloudflare.com/ajax/libs/leaflet-providers/1.9.1/leaflet-providers.min.js
