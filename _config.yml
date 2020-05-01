@@ -4,7 +4,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 theme                  : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -86,8 +86,8 @@ analytics:
 # Site Author
 author:
   name             : "Rob Wiederstein"
-  avatar           : "/assets/img/site/rw_profile_02.jpg"
-  bio              : "An ambling contrarian with a penchant for flannel shirts, craft beer and fried bologna."
+  avatar           : "/assets/img/site/rw_profile_01.jpg"
+  bio              : "An earnest contrarian with a liking for flannel shirts, craft beer and fried bologna."
   location         : "Henderson, KY"
   email            : "rob@robwiederstein.org"
   links:
@@ -119,24 +119,30 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url:  mailto:rob@robwiederstein.org
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://rob4rep.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/RobWiederstein"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/rob.wiederstein"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://github.com/RobWiederstein"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/rob4rep_ky/"
+    - label: "Linked-In"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rob-wiederstein-797553138/"
+    - label:  "reddit"
+      icon: "fab fa-fw fa-reddit"
+      url: "https://www.reddit.com/user/rob_wiederstein"
 
 
 # Reading Files
