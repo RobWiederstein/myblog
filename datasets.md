@@ -6,6 +6,7 @@ author_profile: true
 # Airlines & Airports
 
 - [Bureau of Transportation & Statistics.](http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/airline_information/index.html)
+- [FAA Passenger and Cargo Data.](https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/)
 
 # Cruise Ships
 
@@ -60,6 +61,7 @@ author_profile: true
 
 - [Kentucky Ctr. for Education and Workforce Statistics.](https://kcews.ky.gov/#)
 - [Kentucky State Data Center.](http://ksdc.louisville.edu)
+- [Kentucky Transporation Cabinet Traffic Counts](https://transportation.ky.gov/Planning/Pages/Traffic-Counts.aspx)
 
 # Kids
 
@@ -67,23 +69,18 @@ author_profile: true
 
 # Municipal
 
-```
-   <li><a target="_blank" href="https://data.cityofchicago.org">Chicago Open Data Portal.</a></li>
-   <li><a target="_blank" href="https://data.cincinnati-oh.gov">Cincinnati Open Data Portal.</a></li>
-   <li><a target="_blank" href="http://portal.louisvilleky.gov/service/data/all/Datasets#content">Louisville Open Data Portal.</a></li>
-```
+- [Chicago Open Data Portal.](https://data.cityofchicago.org)
+- [Cincinnati Open Data Portal.](https://data.cincinnati-oh.gov)
+- [Louisville Open Data Portal](http://portal.louisvilleky.gov/service/data/all/Datasets#content)
 
 # Politics
 
-```
-   <li><a target="_blank" href="http://www.electionstudies.org/">American National Election Studies.</a></li>
-   <li><a target="_blank" href="http://library.cqpress.com/elections/">CQ Voting and Elections Collection.</a></li>
-
-   <li><a target="_blank" href="http://www.opensecrets.org/index.php">Open Secrets.</a></li>
-   <li><a target="_blank" href="http://www.comparativeagendas.net/us">Policy Agendas Project.</a></li>
-   <li><a target="_blank" href="http://ropercenter.cornell.edu/">Roper Center for Public Policy Research.</a></li>
-   <li><a target="_blank" href="https://www.voteview.com/">Vote View.</a></li>
-```
+- [American National Election Studies.](http://www.electionstudies.org/)
+- [CQ Voting and Elections Collection.](http://library.cqpress.com/elections/)
+- [Open Secrets](http://www.opensecrets.org/index.php)
+- [Policy Agenda Project](http://www.comparativeagendas.net/us)
+- [Roper Center for Public Policy Research.](http://ropercenter.cornell.edu/)
+- [Vote View](https://www.voteview.com/)
 
 # State & Local Financial Data
 
