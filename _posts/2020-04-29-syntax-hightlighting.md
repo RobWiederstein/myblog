@@ -18,26 +18,12 @@ b <- "a"
 l <- list(number = a, names = b)
 ```
 
-```
-
+```r
 a <- 1:10
 b <- "a"
 l <- list(number = a, names = b)
 ```
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-{% highlight ruby linenos %} def print_hi(name) puts "Hi, #{name}" end print_hi('Tom')
-
-# => prints 'Hi, Tom' to STDOUT.
-
-{% endhighlight %}
-
 ```css
-p { color: red }```
+p { color: red }
+```
