@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Rob Wiederstein"
-  avatar           : "/assets/img/site/rw_profile_01.jpg"
+  avatar           : "/assets/images/site/rw_profile_01.jpg"
   bio              : "An earnest contrarian with a liking for flannel shirts, craft beer and fried bologna."
   location         : "Henderson, KY"
   email            : "rob@robwiederstein.org"

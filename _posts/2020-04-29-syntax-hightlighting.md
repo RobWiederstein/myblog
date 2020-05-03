@@ -2,11 +2,14 @@
 layout: single
 title: Syntax Highlighting
 date: '2020-04-26 19:53:27 -0500'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  Duis aute irure dolor in
+excerpt: Lorem ipsum dolor sit amet
+header:
+  overlay_image: /assets/images/site/earth_tile.jpg
+  overlay_filter: 0.5
+  caption: 'Photo credit: [**Unsplash**](https://unsplash.com)'
+  actions:
+    - label: More Info
+      url: 'https://unsplash.com'
 categories: jekyll update
 ---
 

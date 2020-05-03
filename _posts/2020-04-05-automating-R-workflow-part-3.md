@@ -5,7 +5,7 @@ date: '2020-04-25 19:53:27 -0500'
 categories: R
 ---
 
-![tree](/assets/img/post/20200405.png)
+![tree](/assets/images/post/20200405.png)
 
 1. Intro
 

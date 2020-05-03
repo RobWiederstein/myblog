@@ -10,7 +10,7 @@ author_profile: true
 
 # Cruise Ships
 
-- [**NEW!** Sample Cruise Ship Data.](https://www.dropbox.com/s/yp3q0gr17l3jcl2/cruise_ships.csv?raw=1)
+- [Sample Cruise Ship Data.](https://www.dropbox.com/s/yp3q0gr17l3jcl2/cruise_ships.csv?raw=1)
 
 # Economics
 
@@ -23,13 +23,13 @@ author_profile: true
 
 - [National Center for Education Statistics.](http://nces.ed.gov/datatools/)
 - [Kentucky Department of Education.](http://education.ky.gov/AA/Reports/Pages/default.aspx)
-- [**NEW!** Kentucky Graduation Project Data.](https://www.dropbox.com/s/i76eodohghy953g/cum.1999.2012.csv?raw=1)
+- [Kentucky Graduation Project Data.](https://www.dropbox.com/s/i76eodohghy953g/cum.1999.2012.csv?raw=1)
 
 # Energy
 
 - [Kentucky Coal Facts.](http://energy.ky.gov/Pages/CoalFacts.aspx)
 - [US Energy Information Administration.](https://www.eia.gov/electricity/data.php)
-- [**Global Powerplant Database.**](http://datasets.wri.org/dataset/globalpowerplantdatabase)
+- [Global Powerplant Database.](http://datasets.wri.org/dataset/globalpowerplantdatabase)
 
 --------------------------------------------------------------------------------
 
@@ -62,6 +62,7 @@ author_profile: true
 - [Kentucky Ctr. for Education and Workforce Statistics.](https://kcews.ky.gov/#)
 - [Kentucky State Data Center.](http://ksdc.louisville.edu)
 - [Kentucky Transporation Cabinet Traffic Counts](https://transportation.ky.gov/Planning/Pages/Traffic-Counts.aspx)
+- [Kentucy Open GIS Data Portal](http://kygovmaps-kygeonet.opendata.arcgis.com)
 
 # Kids
 
