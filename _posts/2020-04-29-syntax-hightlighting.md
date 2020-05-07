@@ -15,18 +15,9 @@ categories: jekyll update
 
 # Syntax Highlighting
 
-```r
-a <- 1:10
-b <- "a"
-l <- list(number = a, names = b)
-```
-
-```r
-a <- 1:10
-b <- "a"
-l <- list(number = a, names = b)
-```
-
-```css
-p { color: red }
-```
+<pre class="line-numbers"><code class="language-r">
+# for giraffe
+a <- 4
+b <- "giraffe"
+c <- paste(a, b, sep = "")
+</code></pre>

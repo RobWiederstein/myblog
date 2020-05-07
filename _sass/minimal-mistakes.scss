@@ -18,7 +18,7 @@
 @import "minimal-mistakes/reset";
 @import "minimal-mistakes/base";
 @import "minimal-mistakes/forms";
-@import "minimal-mistakes/tables";
+/*@import "minimal-mistakes/tables";*/
 @import "minimal-mistakes/animations";
 
 /* Components */
@@ -40,4 +40,5 @@
 @import "minimal-mistakes/print";
 
 /* rkw modifications*/
-@import "minimal-mistakes/landing"
+@import "minimal-mistakes/tables01";
+@import "minimal-mistakes/blockquote01";

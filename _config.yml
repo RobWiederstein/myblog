@@ -8,7 +8,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "robwiederstein.org"
+title                    : "Approximating Reality"
 title_separator          : "-"
 subtitle                 : "A blog about data" # site tagline that appears below site title in masthead
 name                     : "Rob Wiederstein"
@@ -284,12 +284,12 @@ defaults:
       share: true
       related: true
 
-head_scripts: #load .css before .js
-#- https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.css
-#- https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.css
-#- https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.Default.css
-- https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js
-- https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.js
-- https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js
-- https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/leaflet.markercluster.js
-- https://cdnjs.cloudflare.com/ajax/libs/leaflet-providers/1.9.1/leaflet-providers.min.js
+# head_scripts: (add scripts to head of html. I've put them in the _includes)
+
+#after-footer-scripts:
+after_footer_scripts:
+        - https://cdnjs.cloudflare.com/ajax/libs/prism/1.19.0/components/prism-core.min.js
+        - https://cdnjs.cloudflare.com/ajax/libs/prism/1.19.0/plugins/autoloader/prism-autoloader.min.js
+        - https://cdnjs.cloudflare.com/ajax/libs/prism/1.19.0/plugins/line-numbers/prism-line-numbers.min.js
+        - https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.20/js/jquery.dataTables.min.js
+        - https://dl.dropbox.com/s/339gspgnqctiuhu/trigger_data_tables.js?raw=1

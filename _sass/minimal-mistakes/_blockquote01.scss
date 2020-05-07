@@ -1,0 +1,23 @@
+blockquote.myquote {
+      width: 100%;
+  margin-left: -50px;
+  padding: 36px 50px;
+  position: relative;
+  background: #c2c2c2;
+  margin-bottom: 28px;
+  &::before, &::after {
+    top: 0;
+    bottom: 0;
+    width: 25px;
+    content: '';
+    position: absolute;
+    background: #c2c2c2;
+    box-shadow: 0 2px rgba(0,0,0,.25);
+  }
+  &::before {
+    right: 100%;
+  }
+  &::after {
+    left: 100%;
+  }
+}

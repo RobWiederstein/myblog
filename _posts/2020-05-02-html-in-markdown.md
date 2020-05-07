@@ -10,6 +10,7 @@ header:
   actions:
     - label: More Info
       url: 'https://unsplash.com'
+classes: wide
 categories: jekyll html markdown
 ---
 

@@ -10,6 +10,7 @@ header:
   actions:
     - label: More Info
       url: 'https://unsplash.com'
+classes: wide
 categories: jekyll html markdown
 ---
 
@@ -18,7 +19,7 @@ categories: jekyll html markdown
 One of the surprises in coding has always been how difficult building a good looking table can be. Since my background is in R, I always start with the first 5 rows of the `mtcars` dataset.
 
 
-<table id="myTable01" class="display">
+<table id="myTable" class="display">
       <thead>
             <tr>
                   <th> make </th>
@@ -106,5 +107,5 @@ One of the surprises in coding has always been how difficult building a good loo
                   <td align="right"> 3.00 </td>
                   <td align="right"> 2.00 </td>
             </tr>
-      <tbody>
+      </tbody>
 </table>
