@@ -148,7 +148,8 @@ input[type="file"] {
 
 select {
   width: auto;
-  background-color: #fff;
+  /*background-color: #fff;*/
+  background-color: none;
 }
 
 select[multiple],

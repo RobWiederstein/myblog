@@ -5,26 +5,26 @@
  //
 
 // Border between the header (and footer) and the table body
-$table-header-border: 1px solid #545454 !default;
+$table-header-border: 5px solid #545454 !default;
 
 // Border of rows / cells
-$table-body-border: 1px solid #545454 !default;
+$table-body-border: 3px solid #545454 !default;
 
 // Row background colour (hover, striping etc are all based on this colour and
 // calculated automatically)
 $table-row-background: #141414 !default;
 
 // Row colour, when selected (tr.selected)
-$table-row-selected: #474747 !default;
+$table-row-selected: #141414 !default;
 
 // Text colour of the interaction control elements (info, filter, paging etc)
-$table-control-color: #f3f4f4 !default;
+$table-control-color: #ffffff !default;
 
 // Highlight colour of the paging button for the current page
-$table-paging-button-active: #6f777d !default;
+$table-paging-button-active: #545454 !default;
 
 // Hover colour of paging buttons on mouse over
-$table-paging-button-hover: #111111 !default;
+$table-paging-button-hover: #141414 !default;
 
 // Colour to use when shading
 $table-shade: black !default;
@@ -595,3 +595,19 @@ table.dataTable td {
         }
     }
 }
+
+/* rob's specialty stuff */
+/*https://developer.mozilla.org/en-US/docs/Web/CSS/outline*/
+/*https://developer.mozilla.org/en-US/docs/Web/CSS/:focus*/
+
+// /* Overide the entries per page select control style on the data table */
+//     .dataTables_length select {
+//         background: White;
+//     }
+//
+//     /* Override all focus glow color/effects for Datatables.net control*/
+//     .dataTables_length select:focus {
+//         border-color: rgba(126, 220, 104, 0.8);
+//         box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(126, 239, 104, 0.6);
+//         outline: 0 none;
+//     }
