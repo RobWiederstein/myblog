@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+permalink: /datasets/
 ---
 
 # Airlines & Airports

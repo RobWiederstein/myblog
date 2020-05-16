@@ -1,11 +1,11 @@
 main:
   - title: "About"
-    url: /about/index.html
+    url: /about/
   - title: "Datasets"
-    url: /datasets/index.html
+    url: /datasets/
   - title: "CV"
-    url: /cv/index.html
+    url: /cv/
   - title: "Gallery"
-    url: /gallery/index.html
+    url: /gallery/
   - title: "Dashboard"
-    url: /dashboard/index.html
+    url: /dashboard/
