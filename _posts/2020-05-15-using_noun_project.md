@@ -2,14 +2,14 @@
 layout: single
 title: Using Icons
 date: '2020-05-02 19:53:27 -0500'
-excerpt: A table of contents can be placed on the right side
+excerpt: Font awesome is integrated in the Minimal Mistakes theme
 header:
-  overlay_image: /assets/images/site/foggy_mountain.jpg
+  overlay_image: /assets/images/site/city_lights.jpg
   overlay_filter: 0.25
   caption: Photo by Ricardo Gomez Angel on [**Unsplash**](https://unsplash.com)'
   actions:
     - label: More Info
-      url: ''
+      url: 'https://www.awesome.com'
 #classes: wide
 toc: true
 toc_sticky: true
