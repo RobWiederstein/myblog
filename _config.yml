@@ -8,7 +8,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Approximating Reality"
+title                    : "Close to Reality"
 title_separator          : "-"
 subtitle                 : "A blog about data" # site tagline that appears below site title in masthead
 name                     : "Rob Wiederstein"
