@@ -16,29 +16,26 @@ toc_sticky: true
 categories: jekyll html markdown
 ---
 
-# Cameras
+# Reminder
 
-## Basic camera with no styling.
+><i id="iconrw" class="fas fa-camera"></i>Remember: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-<i class="fas fa-camera"></i>
+# Idea
 
-## Basic camera with styling
+> <i id="iconrw" class="far fa-lightbulb"></i>Idea: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### Size = 3em and Color = Tomtato
-<span style="font-size: 3em; color: Tomato;">
-  <i class="fas fa-camera"></i>
-</span>
+# Comments
 
-### Size = 48px and color = Dodgerblue
+> <i id="iconrw" class="fas fa-comments"></i>Comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-<span style="font-size: 48px; color: Dodgerblue;">
-  <i class="fas fa-camera"></i>
-</span>
+# Tools
 
-### Size = 3em and color = Mediumslateblue
+> <i id="iconrw" class="fas fa-toolbox"></i>Tools: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-<span style="font-size: 3rem;">
-  <span style="color: Mediumslateblue;">
-  <i class="fas fa-camera"></i>
-  </span>
-</span>
+# Note
+
+> <i id = "iconrw" class="fas fa-pencil-alt"></i> Note: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+# Quote
+
+><i id = "iconrw" class="fas fa-quote-left"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><cite style="text-align: center;">Latin Dude</cite>

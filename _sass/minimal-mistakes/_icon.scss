@@ -1,0 +1,22 @@
+#iconrw {
+      color: $primary-color;
+      font-size: 2em;
+      padding-right: 10px;
+}
+#tiprw {
+      color: $primary-color;
+      font-size: 2em;
+}
+p.note {
+     -moz-border-radius: 6px;
+     -webkit-border-radius: 6px;
+     background-color: inherit;
+     background-image: url(/assets/images/icons/pencil_84.png);
+     background-position: 9px 0px;
+     background-repeat: no-repeat;
+     border: solid 5px $primary-color;
+     border-radius: 6px;
+     line-height: 18px;
+     overflow: hidden;
+     padding: 15px 60px;
+}
