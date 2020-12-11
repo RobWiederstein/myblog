@@ -32,4 +32,4 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 #user modification: according to jekyll at https://jekyllrb.com/docs/github-pages/
-gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
